@@ -1,0 +1,1 @@
+Phonix es presentado como un E-commerce para venta de terminales y accesorios, en este caso realizado con la libreria de ReactJS y estilizada mediante Bootstrap ya que es una de las librerias de CSS mas famosas y cómodas para utilizar.

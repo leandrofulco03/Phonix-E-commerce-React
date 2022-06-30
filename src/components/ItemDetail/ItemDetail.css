@@ -1,0 +1,7 @@
+
+@media (max-width: 990px) {
+    .item-description {
+        align-items: center;
+        text-align: center;
+    }
+}

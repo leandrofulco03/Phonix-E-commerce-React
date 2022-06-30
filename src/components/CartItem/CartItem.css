@@ -1,0 +1,36 @@
+.cart-item-card {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.cart-item-img img {
+    width: 10rem;
+}
+.cart-description {
+    float: left;
+}
+.cart-item-title {
+    text-align: center;
+}
+.cart-count {
+    float: right;
+}
+.cart-price {
+    float: right;
+    font-size: 1.5rem;
+}
+
+/* MEDIA */
+@media (max-width: 742px) {
+    .cart-item-card {
+        flex-direction: column;
+        text-align: center;
+    }
+    .cart-info {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        margin-top: 1rem;
+    }
+}

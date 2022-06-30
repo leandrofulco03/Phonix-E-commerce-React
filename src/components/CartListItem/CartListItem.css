@@ -1,0 +1,15 @@
+.list-cart-container {
+    border: 1px solid #000;
+    border-radius: 1rem;
+    padding: 3rem;
+    margin-top: 3rem;
+}
+.link-light {
+    text-decoration: none;
+}
+
+.total-price-cart span {
+    font-size: 3rem;
+}
+
+

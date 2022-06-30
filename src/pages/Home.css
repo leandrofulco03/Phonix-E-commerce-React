@@ -1,0 +1,9 @@
+.home-container .banner {
+    width: 100%;
+    background: url('/img/banner.png');
+    height: 500px;
+}
+
+.banner h1 {
+    font-size: 3rem;
+}
